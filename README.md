@@ -1,8 +1,8 @@
-Community Board
-Overview
+##Community Board
+###Overview
 This project is a Tech Workshop Community Board that displays upcoming workshops and learning opportunities in a responsive card format. Each card includes details like the workshop title, date, description, and a "Learn More" button.
 
-Required Features
+###Required Features
  Create a unique theme for events or resources relevant to a specific community
 
 Created a Tech Workshop Community Board showcasing various tech learning opportunities
@@ -11,7 +11,7 @@ Created a Tech Workshop Community Board showcasing various tech learning opportu
 
 Implemented 8+ workshop cards including Web Development, React Fundamentals, Node.js, Database Design, UI/UX Design, Git & GitHub, API Development, and Mobile App Development
 
-Stretch Features
+###Stretch Features
  Add buttons or links to a related resource on each card component
 
 Added "Learn More" buttons to each card that link to related resources
@@ -22,7 +22,7 @@ Implemented responsive design with cards adjusting based on screen size
 
 Cards display in a 4-column layout on large screens and adjust for smaller screens
 
-Video Walkthrough
+###Video Walkthrough
 Here's a walkthrough of the implemented features:
 
 <!-- Replace this with your GIF walkthrough --> <img src='YOUR_GIF_URL_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <!-- You can add any additional notes about the implementation here -->
