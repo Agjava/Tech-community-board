@@ -1,0 +1,35 @@
+.board {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+  max-width: 2000px;
+  margin: 0 auto;
+}
+
+.card {
+  flex: 0 0 calc(25% - 32px); /* This will make 4 cards per row with margins */
+  max-width: calc(25% - 32px);
+  margin: 16px;
+}
+
+@media (max-width: 1200px) {
+  .card {
+    flex: 0 0 calc(33.333% - 32px);
+    max-width: calc(33.333% - 32px);
+  }
+}
+
+@media (max-width: 768px) {
+  .card {
+    flex: 0 0 calc(50% - 32px);
+    max-width: calc(50% - 32px);
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+    flex: 0 0 calc(100% - 32px);
+    max-width: calc(100% - 32px);
+  }
+}
