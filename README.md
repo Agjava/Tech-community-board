@@ -18,7 +18,7 @@ Cards display in a 4-column layout on large screens and adjust for smaller scree
 
 ## 🎥 **Video Walkthrough**
 Here’s a walkthrough of the implemented features:  
-[Video Walkthrough](Insert GIF URL here)
+[Video Walkthrough](https://imgur.com/a/cfxzS8t)
 
 License text Copyright([2025]) [Anvesh Gupta]  
 Licensed under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at  
